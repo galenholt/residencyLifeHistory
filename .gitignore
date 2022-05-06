@@ -1,0 +1,6 @@
+.Rproj.user/
+*.pdf
+*.Rproj
+renv/
+.Rhistory
+*.html
